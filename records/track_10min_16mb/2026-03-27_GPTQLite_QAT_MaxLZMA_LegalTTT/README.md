@@ -1,4 +1,4 @@
-# GPTQLite: Pure Velocity & TTT Preservation
+# GatedAttn + ValueResidual + Full QAT + lzma-9 + BigramHash(2048)
 
 **Target val_bpb: < 1.1194** (beat leaderboard #1) — **achieved: 1.11927 mean**
 
