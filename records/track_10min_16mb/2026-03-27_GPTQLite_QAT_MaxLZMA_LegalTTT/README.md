@@ -11,7 +11,7 @@ Previous experiments are archived in the [Archives](https://github.com/FlashyFla
 | 1337 | 83.87ms  | 7155  | 1.12164     | **1.11901**      | -0.00263 | 421.9s   | 15.851MB |
 | 42   | 83.86ms  | 7156  | 1.12229     | **1.11961**      | -0.00268 | 423.2s   | 15.858MB |
 | 2025 | 83.89ms  | 7154  | 1.12198     | **1.11920**      | -0.00278 | 423.4s   | 15.888MB |
-| **Mean** | —   | —     | —           | **1.11927**      | —        | —        | 15.866MB |
+| **Mean** | —   | —     | —           | **1.11927364**   | —        | —        | 15.866MB |
 
 ## Strategy: Pure Velocity & TTT Preservation
 
